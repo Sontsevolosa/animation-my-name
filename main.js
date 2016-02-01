@@ -6,14 +6,8 @@ var purple = [280, 50, 60];
 
 var myName = "Masyaka";
 letterColors = [red, orange, green, blue, purple];
-if(10 > 3) {
-    bubbleShape = "circle";
-}
 
-else {
-    bubbleShape = "square";
-}
-
+bubbleShape = "circle";
 
 drawName(myName, letterColors);
 bounceBubbles();
