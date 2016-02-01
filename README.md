@@ -1,2 +1,2 @@
-# animation-my-name
-Animation of my name
+# Funny small project
+Animation of my name written on JavaScript
